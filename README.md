@@ -1,10 +1,8 @@
 <h1 align="center">
 
-<h3>
+<h3 align="center">
 프로필 꾸미는 건 또 왜이렇게 어려운거야
-  </h3>
 
-  <h3>
 사용언어 
   </h3>
 
