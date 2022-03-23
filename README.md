@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">
 
 프로필 꾸미는 건 또 왜이렇게 어려운거야
 
